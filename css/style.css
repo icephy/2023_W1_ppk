@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+img{
+    vertical-align: middle;
+}
+
+a{
+    display: block;
+}
+
+.container{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.news-list{
+    align-items: center;
+}
+
+.mr-20{
+    margin-right: 20px;
+}
+
+.mb-24{
+    margin-bottom: 24px;
+}
+
+.title{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.footer{
+    padding: 48px 0;
+    text-align: center;
+    background: #666;
+}
